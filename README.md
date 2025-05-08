@@ -1,3 +1,3 @@
 # data-sourcing-challenge
 
-# Unfinished only submitting for to receieve submission for lowest grade # 
+# Unfinished only submitting for to receive submission for lowest grade # 
